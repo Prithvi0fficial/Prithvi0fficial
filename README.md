@@ -33,9 +33,9 @@ Docker to my stack.
 ### Projects
 
 - Bus Ticket Booking System — Django + Redis seat locking +
-  Razorpay webhooks + Celery async tasks → [GitHub](https://github.com/Prithvi0fficial/bus_ticket_booking.git)  [Live](https://bus-ticket-booking-pqjs.onrender.com)
+  Razorpay webhooks + Celery async tasks → [GitHub](https://github.com/Prithvi0fficial/bus_ticket_booking.git) & [Live](https://bus-ticket-booking-pqjs.onrender.com)
 
-- Tars Chat — Real-time Messaging App → [GitHub](https://github.com/Prithvi0fficial/tars-chat.git)  [Live](https://chat-npzjvqzst-prithvi0fficials-projects.vercel.app/)
+- Tars Chat — Real-time Messaging App → [GitHub](https://github.com/Prithvi0fficial/tars-chat.git) & [Live](https://chat-npzjvqzst-prithvi0fficials-projects.vercel.app/)
   
 - Credit Card Fraud Detection — LightGBM, 94% accuracy,
   deployed as REST API on AWS → [GitHub](https://github.com/Prithvi0fficial/Credit_card_fraud_detection.git)
