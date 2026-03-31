@@ -7,7 +7,7 @@ Backend & AI/ML Developer · Python · Django · Open to Full-Time Roles
 <p align="center">
   <a href="https://www.linkedin.com/in/prithvi-v-/">LinkedIn</a> 
   prithvi8289@gmail.com
-  <a href="https://github.com/Prithvi0fficial/Prithvi0fficial/tree/6c62b3f24f80cb39a74dc6052cae27000da52246/assets">Resume</a>
+  <a href="https://github.com/Prithvi0fficial/Prithvi0fficial/blob/6c62b3f24f80cb39a74dc6052cae27000da52246/assets/PRITHVI_V_Resume.pdf">Resume</a>
   
 </p>
 
